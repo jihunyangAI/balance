@@ -40,3 +40,4 @@ next-env.d.ts
 
 # office lock files
 ~$*
+.playwright-mcp/
